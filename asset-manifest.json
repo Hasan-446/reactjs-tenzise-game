@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-tenzise-game/static/css/main.f3821722.css",
+    "main.js": "/reactjs-tenzise-game/static/js/main.dd3917b8.js",
+    "index.html": "/reactjs-tenzise-game/index.html",
+    "main.f3821722.css.map": "/reactjs-tenzise-game/static/css/main.f3821722.css.map",
+    "main.dd3917b8.js.map": "/reactjs-tenzise-game/static/js/main.dd3917b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3821722.css",
+    "static/js/main.dd3917b8.js"
+  ]
+}
